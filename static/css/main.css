@@ -55,10 +55,6 @@ body.landing-page {
     position: relative;
 }
 
-.logo {
-  width: 200px;
-  margin: 0px auto;
-}
 
 .img-container {
   text-align: center;
@@ -260,6 +256,13 @@ body.landing-page {
         max-width: inherit;
     }
 
+}
+
+.sections {
+  float: left;
+  font-size: 20px;
+  width: 120px;
+  margin-top:10px;
 }
 
 /* ==========================================================================
